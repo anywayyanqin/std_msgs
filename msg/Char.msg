@@ -1,1 +1,2 @@
 char data
+char a
