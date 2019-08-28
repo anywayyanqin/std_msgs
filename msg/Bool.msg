@@ -1,3 +1,4 @@
 bool data
 bool 1
-
+bool 0
+bool 1
